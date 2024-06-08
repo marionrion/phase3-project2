@@ -28,8 +28,7 @@ The Random Forest model achieved the highest AUC score, indicating its potential
 Further analysis with F1-score and cost-sensitive learning is recommended for a more informed decision, especially considering class imbalance.
 
 ## Recommendations and Conclusion
-LendingClub can potentially utilize the Random Forest model for loan default prediction based on our initial findings.
-It's crucial to explore additional factors and cost-sensitive learning to refine the model for real-world application.
+This study identified borrower characteristics (employment history) and loan details (interest rate) as important factors influencing loan defaults.  Therefore, a Random Forest model could be a valuable tool for lenders to predict such defaults.
 
 
 
