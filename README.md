@@ -5,9 +5,12 @@ This project aims to develop a machine learning model to predict loan defaults o
 
 ### Here's a breakdown of the project structure:
 ## Business Understanding
-Overview: LendingClub connects borrowers and lenders, but traditional creditworthiness assessments can limit access to credit and lead to inefficiencies.
-Challenge: Current methods might overlook creditworthy borrowers or lead to inaccurate assessments.
-Solution: Machine learning offers a data-driven approach to predict loan repayment behavior and automate credit assessment aspects.
+Overview: 
+LendingClub connects borrowers and lenders, but traditional creditworthiness assessments can limit access to credit and lead to inefficiencies.
+Challenge: 
+Current methods might overlook creditworthy borrowers or lead to inaccurate assessments.
+Solution:
+Machine learning offers a data-driven approach to predict loan repayment behavior and automate credit assessment aspects.
 Problem Statement: We aim to build a model that predicts loan defaults using LendingClub's borrower, loan, and repayment data.
 
 ## Exploring the Data
