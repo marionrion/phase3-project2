@@ -25,7 +25,7 @@ I examined a range of features including loan amount, term, interest rate, borro
 
 Features: Key features include loan amount, term, interest rate, borrower employment details, income verification, and credit history.
 ![image](https://github.com/marionrion/phase3-project2/assets/162312622/77d6aabc-34bd-429f-a4de-5c82a24f971c)
-This image can represent the filtering process based on creditworthiness assessment.
+This image represent the filtering process based on creditworthiness assessment.
 
 ## Model Selection and Evaluation
 ### Training Models
